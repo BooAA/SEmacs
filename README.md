@@ -33,6 +33,8 @@ $ make
 ```sh
 ./run.sh <filename>
 ```
+### Demo
+screencast is avaliable here: https://youtu.be/GuzQd16pkic
 
 ### Todos
 
